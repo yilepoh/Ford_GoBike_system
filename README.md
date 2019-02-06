@@ -71,7 +71,6 @@ Looking at both user demographics and user behaviour, we found that:
 
 
 ## Key Insights for Presentation
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
 
 The presentation focused on understanding our user. We started with the trend in user behaviour followed by user demographics and time. After that, we moved to undertanding the effect of user demographics on the user behaviour.
 
