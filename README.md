@@ -27,7 +27,7 @@ The variables in the dataset have been assigned to the correct datatype. The tim
 
 ### Main feature(s) of interest in dataset
 
-In this project, we assuming the role of a data analyst that is part of a marketing team in Ford GoBike. 
+In this project, we are assuming the role of a data analyst, who is part of a marketing team in Ford GoBike. 
 
 Our primary objective is to better understand the demographics and the behaviour of our users. With these insights, we can design advertising campaigns accordingly, capturing more new users and retaining existing subscribers.
 
@@ -72,15 +72,15 @@ Looking at both user demographics and user behaviour, we found that:
 
 ## Key Insights for Presentation
 
-The presentation focused on understanding our user. We started with the trend in user behaviour followed by user demographics and time. After that, we moved to undertanding the effect of user demographics on the user behaviour.
+The focus of the presentation is to bring the audience to understand Ford GoBike's users. We started with the trends in user behaviour followed by trends in user demographics and time. After that, we explored the effect of user demographics on the user behaviour.
 
-The presentation started with understnading GoBike user behavior in terms of usage duration and distance. We looked at the relationship between the usage duration and distance as a whole. This allows a general understanding of the users' perception of GoBike as a product.
+The presentation starts off with understanding GoBike user behavior in terms of usage duration and distance. We look at the relationship between the usage duration and distance for Ford GoBike users as a whole. This provides a general understanding of the users' perception of GoBike as a product in the market.
 
-The presentation then moves towards depicting the user demographics, such as gender, region and type. As we look into the age variable, we factor in the user type into the picture to start to show the audience that we have 2 very different user base, namely: subscriber and customer.
+The presentation then moves towards depicting the user demographics, such as gender, region and type. As we look into the age variable, we factor in the user type into the picture. We show the audience that we have 2 very different user base, namely: subscriber and customer.
 
-After that, we introduce the factor of time into the picture together. We look at the impact of time on the user behaviour. We left out some intermediate plots, and showed that time has an impact on the user behaviour. But not all users are equally affected.
+With the introduction of user demographics, we introduce the factor of time into the picture. We look at the impact of time on the user behaviour. We left out some intermediate plots, and showed that time has an impact on the user behaviour. But not all users are equally affected.
 
-We then looked into the impact of age on the behaviour while still showing the two different group of user type. By this time, we want to let the audience know that, the two groups of user type is very clear in terms of their behaviour. Age on the other hand has no impact on the behaviour. Presentation is finished with an interesting observation that duration is affected by the time of the day as well as the user region.
+We then looked into the impact of age on the behaviour, while still showing the two different group of user type. Age has no impact on the behaviour. On the other hand, by showing the different group of users, we let the audience know that the two groups of users behave very differently. Presentation is finished with an interesting observation that duration is affected by the time of the day as well as the user region.
 
-In the presentation, we left out the member gender as it has no direct effect on the user behaviour. we also left out some exploratory plots that leads us to the findings. We know that age has no direct impact on the user behaviour. But it can serve as a good variable to showcase the difference in user behaviour between different user type.
-As for color, we stick to 'Blues' for different user types and 'Greens' for different user regions, for a consistent understanding. 
+In the presentation, we left out the member gender, as it has no direct effect on the user behaviour. We also left out some exploratory plots that leads us to the findings. We know that age has no direct impact on the user behaviour. But it can serve as a good variable to showcase the difference in user behaviour between different user type.
+As for color, we stick to 'Blues' for different user types and 'Greens' for different user regions, for a consistent perception on the color and the variables it represents. 
